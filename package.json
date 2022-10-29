@@ -1,4 +1,8 @@
 {
+   "engines" : { 
+    "npm" : ">=8.0.0 <9.0.0",
+    "node" : ">=16.0.0 <17.0.0"
+  }
   "name": "vue3-ts-router-vite-page-tailwind-icon",
   "version": "0.0.0",
   "scripts": {
